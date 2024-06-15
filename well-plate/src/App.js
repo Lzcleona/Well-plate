@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/Navbar';
+import Footer from './components/Footer';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import Login from './pages/Login';
@@ -20,6 +21,7 @@ function App() {
             <Route path="/donate" element={<Donate />} />
           </Routes>
         </main>
+        <Footer />
       </div>
     </Router>
     // <div className="App">
