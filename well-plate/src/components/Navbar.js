@@ -10,7 +10,7 @@ const NavBar = () => {
         <AppBar position="static" sx={{backgroundColor: '#369931'}}>
             <Toolbar>
                 <Box sx={{ flexGrow: 1 }}>
-                    <Typography variant="h6" component="div" sx={{flexGrow: 1, display: 'flex', alignItems: 'center', fontWeight: 'bold', fontFamily: 'Times New Roman'}}>
+                    <Typography variant="h6" component="div" sx={{flexGrow: 1, display: 'flex', alignItems: 'center', fontWeight: 'bold', fontFamily: 'Comfortaa'}}>
                         Well Plate
                     </Typography>
                 </Box>
