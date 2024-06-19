@@ -1,0 +1,35 @@
+.photo-grid {
+    display: grid;
+    grid-template-areas:
+        "photo1 photo2"
+        "photo3 photo4";
+    grid-gap: 10px;
+}
+
+.grid-photo-1 {
+    grid-area: photo1;
+}
+
+.grid-photo-2 {
+    grid-area: photo2;
+}
+
+.grid-photo-3 {
+    grid-area: photo3;
+}
+
+.grid-photo-4 {
+    grid-area: photo4;
+}
+
+.grid-photo {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
