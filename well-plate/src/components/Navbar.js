@@ -19,9 +19,9 @@ const NavBar = () => {
                 <Box mr={2}>
                     <Button href="/" color="inherit">Home</Button>
                 </Box>
-                <Box mr={2}>
+                {/* <Box mr={2}>
                     <Button href="/login" color="inherit">Login</Button>
-                </Box>
+                </Box> */}
                 <Box mr={2}>
                     <Button href="/join" color="inherit">Join</Button>
                 </Box>
