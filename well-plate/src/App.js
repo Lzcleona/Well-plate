@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import Login from './pages/Login';
 import Join from './pages/Join';
 import Donate from './pages/Donate';
+import DonationConfirmation from './pages/DonationConfirmation';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="/login" element={<Login />} />
             <Route path="/join" element={<Join />} />
             <Route path="/donate" element={<Donate />} />
+            <Route path="/donate-confirmation" element={<DonationConfirmation />} />
           </Routes>
         </main>
         <Footer />

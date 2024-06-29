@@ -18,7 +18,7 @@ const Footer = () => {
                         1234 Main St, Anytown, USA
                     </Typography>
                     <Typography variant="body1" sx={{ textAlign: 'center' }}>
-                        Phone: 555-555-5555
+                        Phone: 949-210-5077
                     </Typography>
                     <Typography variant="body1" sx={{ textAlign: 'center' }}>
                         Email: contact@email.com

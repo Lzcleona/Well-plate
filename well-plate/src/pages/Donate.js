@@ -52,6 +52,7 @@ const Donate = () => {
                             type="submit"
                             variant="contained"
                             sx={{ width: 'calc(30% - 8px)', m:1, fontSize: 20}}
+                            href="/donate-confirmation"
                         >
                             Donate
                         </Button>
