@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/Navbar';
 import Footer from './components/Footer';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import Login from './pages/Login';
 import Join from './pages/Join';
