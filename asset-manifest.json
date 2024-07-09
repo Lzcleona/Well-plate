@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Well-plate/static/css/main.4813b99e.css",
-    "main.js": "/Well-plate/static/js/main.7a6312ff.js",
+    "main.js": "/Well-plate/static/js/main.4b87805b.js",
     "static/js/453.6574a7cf.chunk.js": "/Well-plate/static/js/453.6574a7cf.chunk.js",
     "static/media/food.png": "/Well-plate/static/media/food.3bfcd18bb15823155a7f.png",
     "static/media/community.png": "/Well-plate/static/media/community.3420344ef145062f7654.png",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/Well-plate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Well-plate/index.html",
     "main.4813b99e.css.map": "/Well-plate/static/css/main.4813b99e.css.map",
-    "main.7a6312ff.js.map": "/Well-plate/static/js/main.7a6312ff.js.map",
+    "main.4b87805b.js.map": "/Well-plate/static/js/main.4b87805b.js.map",
     "453.6574a7cf.chunk.js.map": "/Well-plate/static/js/453.6574a7cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4813b99e.css",
-    "static/js/main.7a6312ff.js"
+    "static/js/main.4b87805b.js"
   ]
 }
