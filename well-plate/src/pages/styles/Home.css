@@ -1,3 +1,7 @@
+/* .home {
+    background-image: url(${backgroundImage});
+} */
+
 .photo-grid {
     display: grid;
     grid-template-areas:

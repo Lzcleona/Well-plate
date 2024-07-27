@@ -16,8 +16,6 @@ const DonationConfirmation = () => {
 
     var paymentSuccess = true;
 
-    // TODO write function that calls the payment server
-
     return (
             <Container maxWidth="lm">
             <Box 

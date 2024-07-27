@@ -12,7 +12,7 @@ const images = [
     { src: delivery, title: "delivery" },
     { src: community, title: "community" },
 ];
-
+//  style={{backgroundImage: `url(${backgroundImage})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat'}}
 const Home = () => {
     return (
         <div className="home">
@@ -33,8 +33,8 @@ const Home = () => {
                 ))}
             </div>
             <div style={{ padding: '4%'}}>
-                <Card sx={{ backgroundColor: "#B8CCB4", borderRadius: 8 }}>
-                    <Typography fontSize={22} sx={{ padding: '2%' }}>
+                <Card sx={{ background: 'rgba(184, 204, 180, 0.25)', borderRadius: 8, backdropFilter: 'blur(4px)', WebkitBackdropFilter: 'blur(4px)', boxShadow: '0 8px 32px 0 rgba(31, 38, 135, 0.37)' }}>
+                    <Typography fontSize={22} sx={{ padding: '4%' }}>
                         WellPlate hopes to enhance the quality of life for seniors and those in need by delivering nutritious, personalized meals tailored to their medical conditions, preferences, and dietary restrictions. We strive to ensure everyone receives the care, attention, and nourishment they deserve, fostering independence and well-being through compassionate and reliable meal services.
                         
                     </Typography>

@@ -17,16 +17,19 @@ const NavBar = () => {
                 </Box>
                 
                 <Box mr={2}>
-                    <Button href="/" color="inherit">Home</Button>
+                    <Button href="#/" color="inherit">Home</Button>
                 </Box>
                 {/* <Box mr={2}>
                     <Button href="/login" color="inherit">Login</Button>
                 </Box> */}
                 <Box mr={2}>
-                    <Button href="/join" color="inherit">Join</Button>
+                    <Button href="#/join" color="inherit">Join</Button>
                 </Box>
                 <Box mr={2}>
-                    <Button href="/donate" color="inherit">Donate</Button>
+                    <Button href="#/donate" color="inherit">Donate</Button>
+                </Box>
+                <Box mr={2}>
+                    <Button href="#/application" color="inherit">App</Button>
                 </Box>
             </Toolbar>
         </AppBar>

@@ -31,7 +31,6 @@ const Donate = () => {
         }
     };
 
-    // TODO write function that calls the payment server
 
     return (
             <Container maxWidth="lm">
