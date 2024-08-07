@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Typography, Container, IconButton } from "@mui/material";
 import { Facebook, Instagram } from '@mui/icons-material';
-import logo from '../assets/logo512.png';
+import logo from '../assets/icon.png';
 import googleDownload from '../assets/google_download.png';
 
 const Footer = () => {
@@ -40,7 +40,7 @@ const Footer = () => {
             </Box>
             <Box>
             <a 
-                href="https://apps.apple.com/us/app/wechat/id414478124?itsct=apps_box_badge&amp;itscg=30200" 
+                href="https://play.google.com/store/apps/details?id=com.leona.WellPlate" 
                 style={{ display: 'inline-block', overflow: 'hidden', borderRadius: '13px', width: '250px', height: '83px' }}
             >
                 <img 
@@ -50,7 +50,7 @@ const Footer = () => {
                 />
             </a>
             <a 
-                href="https://apps.apple.com/us/app/wechat/id414478124?itsct=apps_box_badge&amp;itscg=30200" 
+                href="https://play.google.com/store/apps/details?id=com.leona.WellPlate" 
                 style={{ display: 'inline-block', overflow: 'hidden', borderRadius: '13px', width: '250px', height: '83px' }}
             >
                 <img 
